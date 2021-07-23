@@ -1,0 +1,16 @@
+D:\Personal Projects\CodeReader\CodeReader\bin\Debug\x86\liblept1753.dll
+D:\Personal Projects\CodeReader\CodeReader\bin\Debug\x86\libtesseract3052.dll
+D:\Personal Projects\CodeReader\CodeReader\bin\Debug\x64\liblept1753.dll
+D:\Personal Projects\CodeReader\CodeReader\bin\Debug\x64\libtesseract3052.dll
+D:\Personal Projects\CodeReader\CodeReader\bin\Debug\TextReader.exe.config
+D:\Personal Projects\CodeReader\CodeReader\bin\Debug\TextReader.exe
+D:\Personal Projects\CodeReader\CodeReader\bin\Debug\TextReader.pdb
+D:\Personal Projects\CodeReader\CodeReader\bin\Debug\Tesseract.dll
+D:\Personal Projects\CodeReader\CodeReader\obj\Debug\TextReader.Properties.Resources.resources
+D:\Personal Projects\CodeReader\CodeReader\obj\Debug\TextReader.csproj.GenerateResource.cache
+D:\Personal Projects\CodeReader\CodeReader\obj\Debug\TextReader.csproj.CoreCompileInputs.cache
+D:\Personal Projects\CodeReader\CodeReader\obj\Debug\TextReader.csproj.CopyComplete
+D:\Personal Projects\CodeReader\CodeReader\obj\Debug\TextReader.exe
+D:\Personal Projects\CodeReader\CodeReader\obj\Debug\TextReader.pdb
+D:\Personal Projects\CodeReader\CodeReader\obj\Debug\TextReader.MainTool.resources
+D:\Personal Projects\CodeReader\CodeReader\obj\Debug\TextReader.ClipPanel.resources

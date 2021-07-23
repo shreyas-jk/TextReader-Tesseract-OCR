@@ -1,0 +1,33 @@
+C:\Users\shrey\source\repos\CodeReader\CodeReader\bin\Debug\CodeReader.exe
+C:\Users\shrey\source\repos\CodeReader\CodeReader\bin\Debug\x86\liblept1753.dll
+C:\Users\shrey\source\repos\CodeReader\CodeReader\bin\Debug\x86\libtesseract3052.dll
+C:\Users\shrey\source\repos\CodeReader\CodeReader\bin\Debug\Tesseract.dll
+C:\Users\shrey\source\repos\CodeReader\CodeReader\bin\Debug\x64\liblept1753.dll
+C:\Users\shrey\source\repos\CodeReader\CodeReader\bin\Debug\x64\libtesseract3052.dll
+C:\Users\shrey\source\repos\CodeReader\CodeReader\bin\Debug\CodeReader.exe.config
+C:\Users\shrey\source\repos\CodeReader\CodeReader\obj\Debug\CodeReader.Form1.resources
+C:\Users\shrey\source\repos\CodeReader\CodeReader\obj\Debug\CodeReader.Form2.resources
+C:\Users\shrey\source\repos\CodeReader\CodeReader\obj\Debug\CodeReader.Properties.Resources.resources
+C:\Users\shrey\source\repos\CodeReader\CodeReader\obj\Debug\CodeReader.csproj.GenerateResource.cache
+C:\Users\shrey\source\repos\CodeReader\CodeReader\obj\Debug\CodeReader.csproj.CoreCompileInputs.cache
+C:\Users\shrey\source\repos\CodeReader\CodeReader\obj\Debug\CodeReader.csproj.CopyComplete
+C:\Users\shrey\source\repos\CodeReader\CodeReader\obj\Debug\CodeReader.exe
+C:\Users\shrey\source\repos\CodeReader\CodeReader\obj\Debug\CodeReader.pdb
+C:\Users\shrey\source\repos\CodeReader\CodeReader\bin\Debug\CodeReader.pdb
+D:\Personal Projects\CodeReader\CodeReader\bin\Debug\x86\liblept1753.dll
+D:\Personal Projects\CodeReader\CodeReader\bin\Debug\x86\libtesseract3052.dll
+D:\Personal Projects\CodeReader\CodeReader\bin\Debug\x64\liblept1753.dll
+D:\Personal Projects\CodeReader\CodeReader\bin\Debug\x64\libtesseract3052.dll
+D:\Personal Projects\CodeReader\CodeReader\bin\Debug\CodeReader.exe.config
+D:\Personal Projects\CodeReader\CodeReader\bin\Debug\CodeReader.exe
+D:\Personal Projects\CodeReader\CodeReader\bin\Debug\CodeReader.pdb
+D:\Personal Projects\CodeReader\CodeReader\bin\Debug\Tesseract.dll
+D:\Personal Projects\CodeReader\CodeReader\obj\Debug\CodeReader.Properties.Resources.resources
+D:\Personal Projects\CodeReader\CodeReader\obj\Debug\CodeReader.csproj.GenerateResource.cache
+D:\Personal Projects\CodeReader\CodeReader\obj\Debug\CodeReader.csproj.CoreCompileInputs.cache
+D:\Personal Projects\CodeReader\CodeReader\obj\Debug\CodeReader.csproj.CopyComplete
+D:\Personal Projects\CodeReader\CodeReader\obj\Debug\CodeReader.exe
+D:\Personal Projects\CodeReader\CodeReader\obj\Debug\CodeReader.pdb
+D:\Personal Projects\CodeReader\CodeReader\obj\Debug\CodeReader.csproj.AssemblyReference.cache
+D:\Personal Projects\CodeReader\CodeReader\obj\Debug\CodeReader.MainTool.resources
+D:\Personal Projects\CodeReader\CodeReader\obj\Debug\CodeReader.ClipPanel.resources
